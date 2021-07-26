@@ -8,7 +8,7 @@ function App() {
       <DenseAppBar />
       <div className={style.wrapper}>
         <ProfileInfo />
-          <Main />
+        <Main />
       </div>
     </div>
   );
