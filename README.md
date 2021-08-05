@@ -4,7 +4,7 @@ https://igorsachkov.github.io/business-card-website/index.html
 
 
 
-<!-- 
+
 Добавьте это в свой файл package.json
 
 "homepage" : "http://<username>.github.io/<reponame>"
@@ -17,4 +17,4 @@ https://igorsachkov.github.io/business-card-website/index.html
 После выполнения этих двух шагов выполните следующую команду
 
 npm run deploy
-Он автоматически создал ветвь с именем gh-pages и развернул ее. -->
+Он автоматически создал ветвь с именем gh-pages и развернул ее.
