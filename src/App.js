@@ -11,9 +11,7 @@ function App() {
       <DenseAppBar />
       <div className={style.wrapper}>
         <ProfileInfo />
-        <hr />
-        <Paper elevation={3}><Typography>Переехал в Санкт-Петербург недавно. Заниматься программированием начал с начала 2021 года. </Typography></Paper>
-        <hr />
+
         <Main state={state}/>
       </div>
       

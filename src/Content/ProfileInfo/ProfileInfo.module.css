@@ -1,11 +1,12 @@
 
 .profileContainer {
     display: flex;
-    margin-top: 2%;
+    margin: 2% 0;
+
 }
 .basicPhoto {
     width: 50%;
-
+    box-shadow: 1px 1px 3px grey;
 }
 .basicInfo {
     width: 50%;

@@ -2,28 +2,28 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import OnePNG from "./../../images/one.jpg"
-import TwoPNG from "./../../images/two.jpg"
-import ThreePNG from "./../../images/firstSlidePhoto.jpg"
+
+import FirstImage from "./../../images/firstSlide.jpg"
+import SecondImage from "./../../images/secondSlide.jpg"
+import ThirdImage from "./../../images/thirdSlide.jpg"
 
 export default class DemoCarousel extends Component {
     render() {
         return (
             <Carousel>
                 <div>
-
-                    <img src={OnePNG} />
-                    <p className="legend">Legend 1</p>
+                    <img src={FirstImage} />
+                    <p className="legend">Это я</p>
                 </div>
                 <div>
-                <img src={TwoPNG} />
-
-                    <p className="legend">Legend 2</p>
+                    <img src={SecondImage} />
+                    <p className="legend">Омск, берег Иртыша</p>
                 </div>
                 <div>
-                <img src={ThreePNG} />
-                    <p className="legend">Legend 3</p>
+                    <img src={ThirdImage} />
+                    <p className="legend">Волгоград, берег Волги</p>
                 </div>
+
             </Carousel>
         );
     }

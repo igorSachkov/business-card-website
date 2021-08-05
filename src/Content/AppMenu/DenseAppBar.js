@@ -43,11 +43,8 @@ export default function DenseAppBar() {
     <div className={classes.root}>
       <AppBar position="static" className={classes.some}>
         <Toolbar variant="dense">
-          <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
-            <MenuIcon />
-          </IconButton>
           <Typography variant="h6" color="inherit">
-            Photos
+           Обо мне
           </Typography>
         </Toolbar>
       </AppBar>
