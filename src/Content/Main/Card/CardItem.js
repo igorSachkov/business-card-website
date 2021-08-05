@@ -100,7 +100,7 @@ function CardItem(props) {
       </CardActions>
       <Collapse in={expanded} timeout="auto" unmountOnExit>
         <CardContent>
-          <Typography paragraph>Method:</Typography>
+          <Typography paragraph>В деталях:</Typography>
           {props.typographyArray.map((p,i)=> {
             return (
               <Typography key={i} paragraph>

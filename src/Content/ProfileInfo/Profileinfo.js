@@ -13,11 +13,11 @@ export default function ProfileInfo() {
 
                 </div>
                 <div className={style.basicPhoto}>
-                <DemoCarousel />
+                    <DemoCarousel />
                 </div>
 
             </div>
-            
+
         </div>
 
     )

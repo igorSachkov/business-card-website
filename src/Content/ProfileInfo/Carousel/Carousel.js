@@ -4,7 +4,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 import { Carousel } from 'react-responsive-carousel';
 import OnePNG from "./../../images/one.jpg"
 import TwoPNG from "./../../images/two.jpg"
-import ThreePNG from "./../../images/firstSlidePhoto.png"
+import ThreePNG from "./../../images/firstSlidePhoto.jpg"
 
 export default class DemoCarousel extends Component {
     render() {
