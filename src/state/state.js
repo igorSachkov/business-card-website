@@ -24,11 +24,13 @@ export const state = [
     "Обслуживал изберательные участки. Обеспечивал бесперебойный интернет канал. Производил монтаж и настройку видеонаблюдения."] },
 
     { image: codeWars, title: "Профиль в `codewars`", icon: logo, typography: "Тренируюсь в создании JS функций на ресурсе `codewars.com`", 
-    paragraph: ["Ссылка на мой профиль https://www.codewars.com/users/Igordada", "На данный момент заработал 5 Кю (разряд) (минимальный 8). Обязательно буду совершенствовать свой профиль."] },
+    paragraph: ["Ссылка на мой профиль https://www.codewars.com/users/Igordada", "На данный момент заработал 5 Кю (разряд) (минимальный 8). Сложнее 5го Кю задачи, пока еще, не решал."] },
 
-    { image: javascript, title: "HTML, CSS, JavaScript, React", icon: jsLogo, typography: "все по вершкам", 
-    paragraph: [""] },
+    { image: javascript, title: "HTML, CSS, JavaScript, React", icon: jsLogo, typography: "В мир программирования решил вкатиться с Фронтенда.", 
+    paragraph: ["HTML и в последствие CSS изучал по кусру `developer.mozilla.org`.", "JavaScript также изучал по мозиловским гайдам, `learn.javascript.ru` и книге Эрика Фримена и Элизабет Робсон `Изучаем программирование на JavaScript`.",
+    "На данный момент изучаю React, Redux, Material-UI, React-Redux, Redux-Form. Учебные материалы, помимо документации: `Алекс Бэнкс, Ева Порселло <React и Redux. Функциональная веб-разработка>`; youtube источники (Владилен Минин, канал IT-KAMASUTRA)."] },
 
-    { image: graphic, title: "Графические редакторы", icon: canvas, typography: "совсем чуть чуть", 
-    paragraph: [""] }
+    { image: graphic, title: "Графические редакторы. Adobe Photoshop и GIMP", icon: canvas, typography: "Есть опыт использования данных графических редакторов", 
+    paragraph: ["Какое-то время выполнял различные работы в редакторе Adobe Photoshop. Например редактирование дипломных работ. Удалял из изображения раличные `помарки`. Либо дописывал пропущенные детали. Отделял фигуры от заднего слоя.", 
+    "В данный момент изучаю графический редактор GIMP."] }
 ]
