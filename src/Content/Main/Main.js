@@ -12,15 +12,15 @@ function Main(props) {
     return (
         <main className={c.wrapper}>
             <Grid container spacing={1}>
-                
-                    {props.state.map((everyCard, i) => {
-                        return (
-                            <Grid key={i} item lg={3} sm={6} >
-                                <CardItem  image={everyCard.image} title={everyCard.title} icon={everyCard.icon} typography={everyCard.typography} typographyArray={everyCard.paragraph}/>
-                            </Grid>
-                        )
-                    })}
-                
+
+                {props.state.map((everyCard, i) => {
+                    return (
+                        <Grid key={i} item lg={3} md={6} xs={12}>
+                            <CardItem image={everyCard.image} title={everyCard.title} icon={everyCard.icon} typography={everyCard.typography} typographyArray={everyCard.paragraph} />
+                        </Grid>
+                    )
+                })}
+
 
             </Grid>
         </main>
