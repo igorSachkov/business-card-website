@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/business-card-website/static/css/main.4ea6504b.chunk.css",
-    "main.js": "/business-card-website/static/js/main.26396258.chunk.js",
-    "main.js.map": "/business-card-website/static/js/main.26396258.chunk.js.map",
+    "main.css": "/business-card-website/static/css/main.7283ea20.chunk.css",
+    "main.js": "/business-card-website/static/js/main.04e1b6b5.chunk.js",
+    "main.js.map": "/business-card-website/static/js/main.04e1b6b5.chunk.js.map",
     "runtime-main.js": "/business-card-website/static/js/runtime-main.288ca772.js",
     "runtime-main.js.map": "/business-card-website/static/js/runtime-main.288ca772.js.map",
     "static/css/2.ed1298f3.chunk.css": "/business-card-website/static/css/2.ed1298f3.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.949b7f0e.chunk.js.map": "/business-card-website/static/js/3.949b7f0e.chunk.js.map",
     "index.html": "/business-card-website/index.html",
     "static/css/2.ed1298f3.chunk.css.map": "/business-card-website/static/css/2.ed1298f3.chunk.css.map",
-    "static/css/main.4ea6504b.chunk.css.map": "/business-card-website/static/css/main.4ea6504b.chunk.css.map",
+    "static/css/main.7283ea20.chunk.css.map": "/business-card-website/static/css/main.7283ea20.chunk.css.map",
     "static/js/2.81ae278d.chunk.js.LICENSE.txt": "/business-card-website/static/js/2.81ae278d.chunk.js.LICENSE.txt",
     "static/media/App.module.css": "/business-card-website/static/media/5349959.4db3892d.jpg",
     "static/media/codeWars.9dc46a27.jpeg": "/business-card-website/static/media/codeWars.9dc46a27.jpeg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.288ca772.js",
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.81ae278d.chunk.js",
-    "static/css/main.4ea6504b.chunk.css",
-    "static/js/main.26396258.chunk.js"
+    "static/css/main.7283ea20.chunk.css",
+    "static/js/main.04e1b6b5.chunk.js"
   ]
 }
