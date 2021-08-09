@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/business-card-website/static/css/main.7283ea20.chunk.css",
-    "main.js": "/business-card-website/static/js/main.04e1b6b5.chunk.js",
-    "main.js.map": "/business-card-website/static/js/main.04e1b6b5.chunk.js.map",
+    "main.js": "/business-card-website/static/js/main.9917ce23.chunk.js",
+    "main.js.map": "/business-card-website/static/js/main.9917ce23.chunk.js.map",
     "runtime-main.js": "/business-card-website/static/js/runtime-main.288ca772.js",
     "runtime-main.js.map": "/business-card-website/static/js/runtime-main.288ca772.js.map",
     "static/css/2.ed1298f3.chunk.css": "/business-card-website/static/css/2.ed1298f3.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.81ae278d.chunk.js",
     "static/css/main.7283ea20.chunk.css",
-    "static/js/main.04e1b6b5.chunk.js"
+    "static/js/main.9917ce23.chunk.js"
   ]
 }
